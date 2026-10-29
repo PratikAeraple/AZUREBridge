@@ -1,0 +1,10 @@
+{
+  "id": "azurebridge",
+  "title": "AZUREBRIDGE",
+  "hostname": "azurebridge.brutehack.com",
+  "hostnames": [
+    "azurebridge.brutehack.com"
+  ],
+  "status": "portfolio demonstration",
+  "health_identity": "azurebridge-ready"
+}
